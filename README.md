@@ -26,3 +26,6 @@ PI IOT
 - The goat in serial communication on computer (not Pi and Android)
   - GDSerial https://godotengine.org/asset-library/asset/4175
     - https://github.com/SujithChristopher/gdserial?tab=readme-ov-file
+   
+Scratch to Godot
+- Braodcast node -> https://godotengine.org/asset-library/asset/3547
