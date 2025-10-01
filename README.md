@@ -10,3 +10,5 @@ Catch my eyes:
   - Very nice SVG input for keyboard, xbox and PS with some code aroudn it. 
 - Input Overlayer for tutorial https://godotengine.org/asset-library/asset/2204
   - If you want to learn how to make your own overlayer in Godot. 
+- GDShell ; Look Nice
+  - https://github.com/Kubulambula/Godot-GDShell 
