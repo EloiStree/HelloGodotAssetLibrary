@@ -3,6 +3,9 @@
 > Let’s dive into building an asset for the Godot Library and check out some great tools from the community along the way.
 
 
+Good chat gpt checklist and discussion:
+https://chatgpt.com/share/68dd7971-34fc-800e-ad2c-2b0a5d975612
+
 Catch my eyes:
 - FSM https://codeberg.org/HexagonNico/FiniteStateMachine
   - Finite State Machine code without the UI but quickly and easily usable 
