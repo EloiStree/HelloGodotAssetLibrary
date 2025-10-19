@@ -1,12 +1,6 @@
 
 
-### Check List:
 
-* [ ] Add a `git_source.md`
-  * Because when copying it into the project, you can easily forget from where it came.
-* [ ] Add a license in the git repository and in `addons/your_addon/LICENSE.md`
-
----
 
 My first validated asset was:
 [https://github.com/EloiStree/2025_04_15_gdp_kid_toy_ovni_code](https://github.com/EloiStree/2025_04_15_gdp_kid_toy_ovni_code)
@@ -69,6 +63,8 @@ My first validated asset was:
 * [ ] Add or modify the `.gitignore` from [gitignore.io](https://www.toptal.com/developers/gitignore/api/godot) ([See example](https://github.com/EloiStree/2025_04_15_gdp_kid_toy_ovni_code/blob/main/.gitignore)).
 * [ ] Save everything with `git add`, `commit`, `pull`, and `push`.
 * [ ] You can create a `scripts/hello_world.gd` node to say hello to your first package.
+* [ ] Add a `git_source.md`
+
 
 ---
 
