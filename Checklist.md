@@ -66,7 +66,7 @@ My first validated asset was:
 * [ ] Add a `tests/ReadMe.md` to store test scripts later.
 * [ ] Create a `.editorconfig` ([See example](https://github.com/EloiStree/2025_04_15_gdp_kid_toy_ovni_code/blob/main/.editorconfig)) to set the charset and where the package should be.
 * [ ] Modify the `.gitattributes` ([See example](https://github.com/EloiStree/2025_04_15_gdp_kid_toy_ovni_code/blob/main/.gitattributes)) to specify what to ignore in the WIP export (`guides`, `docs`, `screenshots`, `tests`, `.github`, `.gitignore`, `.gitattributes`).
-* [ ] Add or modify the `.gitignore` from [Toptal](https://www.toptal.com/developers/gitignore/api/godot) ([See example](https://github.com/EloiStree/2025_04_15_gdp_kid_toy_ovni_code/blob/main/.gitignore)).
+* [ ] Add or modify the `.gitignore` from [gitignore.io](https://www.toptal.com/developers/gitignore/api/godot) ([See example](https://github.com/EloiStree/2025_04_15_gdp_kid_toy_ovni_code/blob/main/.gitignore)).
 * [ ] Save everything with `git add`, `commit`, `pull`, and `push`.
 * [ ] You can create a `scripts/hello_world.gd` node to say hello to your first package.
 
