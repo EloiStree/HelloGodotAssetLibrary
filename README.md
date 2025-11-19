@@ -29,3 +29,9 @@ PI IOT
    
 Scratch to Godot
 - Braodcast node -> https://godotengine.org/asset-library/asset/3547
+
+
+This project is a 3 years old pro of Godot and he publish it on the store like a champ.
+Lot's to learn from it, on how to publish a good asset:  
+https://github.com/addmix/godot_aerodynamic_physics?tab=readme-ov-file  
+https://github.com/addmix/Godot-Aerodynamic-Tutorial  
