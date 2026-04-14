@@ -3,6 +3,19 @@
 > Let’s dive into building an asset for the Godot Library and check out some great tools from the community along the way.
 
 
+
+
+----------
+
+**Minimun:**   
+- Manual: https://docs.godotengine.org/en/stable/community/asset_library/submitting_to_assetlib.html#submission-guidelines  
+- Code Style: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html#doc-gdscript-styleguide  
+- Submit: https://godotengine.org/asset-library/asset/submit   
+- My `.yml` GitHub Action: [here](https://github.com/EloiStree/godot_empty_project_for_addons/blob/main/.github/workflows/create_release.yml)  
+
+
+------------
+
 Good chat gpt checklist and discussion:
 https://chatgpt.com/share/68dd7971-34fc-800e-ad2c-2b0a5d975612
 
